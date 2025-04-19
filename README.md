@@ -66,7 +66,4 @@
 
 ---
 
-<h3 align="left">Snake Contribution Graph:</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aaravgaurav/aaravgaurav/output/github-contribution-grid-snake.svg" />
 </p>
